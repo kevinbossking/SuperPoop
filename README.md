@@ -1,2 +1,2 @@
 # SuperPoop
-SuperPoop, this is a disgusting app ever 
+SuperPoop, this is the disgusting app ever 
